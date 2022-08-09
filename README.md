@@ -4,20 +4,6 @@
 
 Description - This project is a serverless and asynchronous solution for John L Scott, a real estate firm in the Washington Area, to detect and highlight restrictive language in their historical documents.  
 
-## Architecture
-
-<p align="center">
-  <img src="architecture/workstream1-part1.png" alt="Size Limit CLI" width="738">
-</p>
-
-<p align="center">
-  <img src="architecture/workstream1-part2.png" alt="Size Limit CLI" width="738">
-</p>
-
-<p align="center">
-  <img src="architecture/workstream2.png" alt="Size Limit CLI" width="738">
-</p>
-
 ## How it Works
 
 1. WorkStream 1 - Document Ingestion
